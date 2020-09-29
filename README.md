@@ -7,10 +7,10 @@ Study Notes for the AZ900:Azure Fundamentals exam. The oficial Microsoft Learn m
 
 The study areas and the percentage weight of each area of the exam are as follows. The higher the percentage,the more questions relevant to the specific area the exam will contain.
 
-<pre>
+<pre><code>
 AZ-900 Study Areas          	                                          Weights
 Understand cloud concepts 	                                            15-20%
 Understand core Azure services 	                                        30-35%
 Understand security, privacy, compliance, and trust 	                  25-30%
 Understand Azure pricing, service level agreements, and lifecycle       20-25%
-</pre>
+</code></pre>
