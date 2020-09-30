@@ -1,0 +1,30 @@
+#Defining Cloud Computing
+
+##What is Cloud Computing?
+
+Cloud computing is the delivery of computing services- such as servers, storage, databases, networking- over the Internet to offer faster innovation, flexible resources, and economies of scale.
+ Cloud services are typically paid in a “pay-as-you-go” basis. This helps you to,
+•	Lower your operating cost
+•	Run infrastructure more efficiently
+•	Ease the scaling of your business
+The companies providing these services are called cloud providers. Popular cloud providers are Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform. 
+Key point: Every business has different needs and requirements, and cloud computing is flexible and cost-efficient. The goal of cloud computing is to make running a business easier and more efficient, whether it's a small start-up or a large enterprise. 
+Typical services provided by cloud providers include:
+1.	Compute power- servers and application
+2.	Storage- files and databases	
+3.	Networking- secure connections between the cloud and your business
+4.	Analytics- such as visualizing telemetry and performance data.
+
+##Compute Power
+
+**Virtual Machines**- Virtual machines are emulations of computers. They possess an operating system and virtual hardware which the end user cannot differentiate from. 
+
+**Containers**- Containers provide a consistent, isolated runtime environment for applications. No operating systems are required. Instead, the application and all its dependencies is packaged into a "container" and then a standard runtime environment is used to execute the app.
+•	Multiple containers can be run on a single machine
+•	containers can be moved between machines
+•	can be easily deployed between multiple environments
+
+**Serverless computing**- application code can be run without creating, configuring or maintaining a server. The application is broken into separate functions that run when triggered by some action. This is ideal for automated tasks. The serverless model differs from VMs and containers (which are charged while they’re running even if the apps on them are idle) in that you only pay for the processing time used by each function as it executes. This is the fastest deployment option. 
+
+
+
